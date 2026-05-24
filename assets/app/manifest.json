@@ -1,0 +1,97 @@
+[
+  {
+    "file": "01-start.png",
+    "width": 750,
+    "height": 1624
+  },
+  {
+    "file": "02-guide-1.png",
+    "width": 750,
+    "height": 1624
+  },
+  {
+    "file": "03-guide-2.png",
+    "width": 750,
+    "height": 1624
+  },
+  {
+    "file": "04-guide-3.png",
+    "width": 750,
+    "height": 1624
+  },
+  {
+    "file": "05-survey.png",
+    "width": 750,
+    "height": 1624
+  },
+  {
+    "file": "06-login.png",
+    "width": 750,
+    "height": 1624
+  },
+  {
+    "file": "07-register.png",
+    "width": 750,
+    "height": 1624
+  },
+  {
+    "file": "08-device.png",
+    "width": 750,
+    "height": 1624
+  },
+  {
+    "file": "10-plan.png",
+    "width": 750,
+    "height": 1624
+  },
+  {
+    "file": "11-songs.png",
+    "width": 750,
+    "height": 1628
+  },
+  {
+    "file": "12-actions.png",
+    "width": 750,
+    "height": 1628
+  },
+  {
+    "file": "13-skins.png",
+    "width": 750,
+    "height": 1630
+  },
+  {
+    "file": "14-record-day.png",
+    "width": 750,
+    "height": 2094
+  },
+  {
+    "file": "15-record-week.png",
+    "width": 750,
+    "height": 2092
+  },
+  {
+    "file": "16-record-month.png",
+    "width": 750,
+    "height": 2088
+  },
+  {
+    "file": "17-record-month-detail.png",
+    "width": 750,
+    "height": 2088
+  },
+  {
+    "file": "18-achievements.png",
+    "width": 750,
+    "height": 1624
+  },
+  {
+    "file": "19-profile.png",
+    "width": 750,
+    "height": 1624
+  },
+  {
+    "file": "09-home.png",
+    "width": 750,
+    "height": 2360
+  }
+]
