@@ -1,0 +1,12 @@
+{
+  "name": "昆曲韵动 H5体验Demo",
+  "short_name": "昆曲韵动",
+  "start_url": "./index.html#start",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffa7ac",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "assets/icons/logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
