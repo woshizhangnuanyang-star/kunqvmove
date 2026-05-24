@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#ffa7ac" />
+  <title>昆曲韵动 · H5体验Demo v6</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="demo-shell" aria-label="昆曲韵动APP体验">
+    <section class="phone" id="phone">
+      <div id="fixedTop" class="fixed-top" aria-hidden="true">
+        <img id="topImage" class="top-image" src="" alt="" draggable="false" />
+      </div>
+      <div class="screen-scroll" id="screenScroll">
+        <div class="image-stage" id="imageStage">
+          <img id="pageImage" class="page-image" src="" alt="昆曲韵动APP页面" draggable="false" />
+          <div id="hotspots" class="hotspots" aria-hidden="false"></div>
+        </div>
+        <div id="bottomPad" class="bottom-pad" aria-hidden="true"></div>
+      </div>
+      <div id="fixedNav" class="fixed-nav hidden" aria-label="底部导航固定区">
+        <img id="navImage" class="nav-image" src="" alt="" draggable="false" />
+        <button class="nav-hit nav-home" data-nav="home" aria-label="首页"></button>
+        <button class="nav-hit nav-device" data-nav="device" aria-label="设备"></button>
+        <button class="nav-hit nav-tv" data-nav="tv" aria-label="连接大屏"></button>
+        <button class="nav-hit nav-record" data-nav="recordWeek" aria-label="记录"></button>
+        <button class="nav-hit nav-profile" data-nav="profile" aria-label="我的"></button>
+      </div>
+      <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    </section>
+    <aside class="desktop-guide" aria-label="评审导览">
+      <div class="guide-card">
+        <img src="assets/icons/logo.png" alt="昆曲韵动Logo" />
+        <h1>昆曲韵动</h1>
+        <p>手机端APP + 电视端体感页面串联体验。当前版本已移除系统展板入口，保留作品核心交互路径。</p>
+        <button id="guideStart">从启动页开始</button>
+        <button id="guideHome">直接进入首页</button>
+        <a href="tv/index.html">打开电视端</a>
+      </div>
+    </aside>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
